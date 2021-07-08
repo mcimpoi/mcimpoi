@@ -10,4 +10,7 @@
 
 ![Mircea's github stats](https://github-readme-stats.vercel.app/api?username=mcimpoi&hide=contribs,prs&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcimpoi&exclude_repo=mcimpoi.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
