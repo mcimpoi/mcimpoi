@@ -1,4 +1,6 @@
-### Welcome to my GitHub page! 👋
+### Welcome to Mircea's GitHub page!
+
+My name is pronounced something like Myrcha. You can check [this Wikipedia link](https://en.wikipedia.org/wiki/Mircea) to read about the name origin, and other folks sharing the same first name.
 
 <!--
 **mcimpoi/mcimpoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
