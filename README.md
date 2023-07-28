@@ -14,9 +14,9 @@ My name is pronounced Myrcha. You can check [this Wikipedia link](https://en.wik
 
 ![Mircea's github stats](https://github-readme-stats.vercel.app/api?username=mcimpoi&hide=contribs,prs&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcimpoi&exclude_repo=mcimpoi.github.io&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcimpoi&exclude_repo=mcimpoi.github.io&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Visitor Count](https://profile-counter.glitch.me/mcimpoi/count.svg)
+Visitors: ![Visitor Count](https://profile-counter.glitch.me/mcimpoi/count.svg)
 
 
 
