@@ -12,7 +12,7 @@ My name is pronounced Myrcha. You can check [this Wikipedia link](https://en.wik
 
 - My GitHub card (Get yours here: https://github.com/anuraghazra/github-readme-stats)
 
-![Mircea's github stats](https://github-readme-stats.vercel.app/api?username=mcimpoi&hide=contribs,prs&show_icons=true&theme=tokyonight)
+![Mircea's github stats](https://github-readme-stats.vercel.app/api?username=mcimpoi&theme=tokyonight&rank_icon=progress)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcimpoi&exclude_repo=mcimpoi.github.io&theme=tokyonight&langs_count=10&hide=html,matlab,m)](https://github.com/anuraghazra/github-readme-stats)
 
