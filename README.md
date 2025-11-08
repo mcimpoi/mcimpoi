@@ -16,7 +16,7 @@ My name is pronounced Myrcha. You can check [this Wikipedia link](https://en.wik
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcimpoi&exclude_repo=mcimpoi.github.io&theme=tokyonight&langs_count=10&hide=html,matlab,m)](https://github.com/anuraghazra/github-readme-stats)
 
-Visitors: ![Visitor Count](https://profile-counter.glitch.me/mcimpoi/count.svg)
+
 
 
 
